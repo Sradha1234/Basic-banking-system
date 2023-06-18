@@ -6,7 +6,8 @@ This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
 Details of Customers are maintained as Name, Email, Amount etc.
 # screenshots
 
-![Screenshot (2)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/9b6a82a4-4f0a-4eb1-866d-200b1b061b5a)
-![Screenshot (3)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/fd6dbd3f-84f2-44c9-96de-c08d16085b1a)
-![Screenshot (4)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/4264865e-750f-4042-b5df-4e7e78d94c48)
-![Screenshot (5)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/4ab6a97b-669d-4dbb-8c04-482d6e1f1afd)
+![Screenshot (8)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/144bbd7a-543b-4d4c-8667-669ffdf8ed80)
+![Screenshot (9)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/f95c5091-1a52-4344-903a-464196f01dca)
+![Screenshot (10)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/f14e55c5-8c1d-466c-8247-80c0220e1732)
+![Screenshot (11)](https://github.com/Sradha1234/Basic-banking-system/assets/136174579/e8af0826-5753-4275-93bf-09693569415d)
+
